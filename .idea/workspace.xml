@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8abe9d54-edf8-4e01-9c25-a70051991b66" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Z0MxPW156qmDyrPE3xPo7oJxiJ" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="iloveyouboss_02" />
+      <recent name="iloveyouboss" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JUnit_Test\src\iloveyouboss_02" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AssertTest.readsFromTestFile">
+    <configuration name="AssertTest.exceptionRule" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iloveyouboss_03.test.scratch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="iloveyouboss_03.test.scratch" />
+      <option name="MAIN_CLASS_NAME" value="iloveyouboss_03.test.scratch.AssertTest" />
+      <option name="METHOD_NAME" value="exceptionRule" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssertTest.readsFromTestFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iloveyouboss_03.test.scratch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="iloveyouboss_03.test.scratch" />
+      <option name="MAIN_CLASS_NAME" value="iloveyouboss_03.test.scratch.AssertTest" />
+      <option name="METHOD_NAME" value="readsFromTestFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssertTest.testWithWorthlessAssertionComment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iloveyouboss_03.test.scratch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="iloveyouboss_03.test.scratch" />
+      <option name="MAIN_CLASS_NAME" value="iloveyouboss_03.test.scratch.AssertTest" />
+      <option name="METHOD_NAME" value="testWithWorthlessAssertionComment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssertTest.throwsWhenWithdrawingTooMuch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iloveyouboss_03.test.scratch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="iloveyouboss_03.test.scratch" />
+      <option name="MAIN_CLASS_NAME" value="iloveyouboss_03.test.scratch.AssertTest" />
+      <option name="METHOD_NAME" value="throwsWhenWithdrawingTooMuch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssertTest.throwsWhenWithdrawingTooMuchTry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iloveyouboss_03.test.scratch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="iloveyouboss_03.test.scratch" />
+      <option name="MAIN_CLASS_NAME" value="iloveyouboss_03.test.scratch.AssertTest" />
+      <option name="METHOD_NAME" value="throwsWhenWithdrawingTooMuchTry" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AssertTest.readsFromTestFile" />
+        <item itemvalue="JUnit.AssertTest.exceptionRule" />
+        <item itemvalue="JUnit.AssertTest.throwsWhenWithdrawingTooMuchTry" />
+        <item itemvalue="JUnit.AssertTest.throwsWhenWithdrawingTooMuch" />
+        <item itemvalue="JUnit.AssertTest.testWithWorthlessAssertionComment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8abe9d54-edf8-4e01-9c25-a70051991b66" name="Default Changelist" comment="" />
+      <created>1583971803987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583971803987</updated>
+      <workItem from="1583971805491" duration="14182000" />
+      <workItem from="1584058406621" duration="5970000" />
+      <workItem from="1584064431592" duration="4572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
